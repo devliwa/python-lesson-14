@@ -1,1 +1,1 @@
-# python-lesson-14
+# higher-lower-game-project
